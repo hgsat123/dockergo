@@ -4,8 +4,7 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-
-	"https://github.com/gorilla/mux"
+	"github.com/gorilla/mux"
 )
 
 func main() {
